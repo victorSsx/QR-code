@@ -1,8 +1,6 @@
 @media (max-width: 1120px) {
     .atribuicao{
         width: 300px;
-        display: flex;
-        align-items: center; 
     }
     .text p{
         font-size: 13px;
